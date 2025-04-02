@@ -49,10 +49,9 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
+Hello, my name is Kaileiani. I'm hoping to learn more about Python operations and to be more comfortable using these commands. At this time, I don't have any specific topics in mind. 
+A musical recommendation is ----
+
 - A musical recommendation and a link to something about it (song, album, artist)
 
 ### Part 2: Complete the email_hasher.py Script
