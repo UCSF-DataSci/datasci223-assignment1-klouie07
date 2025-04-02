@@ -37,9 +37,9 @@ def hash_email(email):
     pass
 
 def write_hash_to_file(hash_value, filename="hash.email"):
-    
-    with open(filename, 'w') as file:
-        file.write(hash_value)
+    print(hash_value)
+    #with open(filename, 'w') as file:
+    #    file.write(hash_value)
 
     """
     Write a hash value to a file.
